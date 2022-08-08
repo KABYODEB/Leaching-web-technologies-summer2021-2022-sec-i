@@ -1,2 +1,0 @@
-I have apply ajax in username in registation page.
-and use jason in data.json file in under Model where we can see which user are logged in which time .
